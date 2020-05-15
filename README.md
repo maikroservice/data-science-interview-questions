@@ -1,4 +1,4 @@
-# data-science-interview-questions
+# data-science-interview-questions-and-tasks
 questions I have been asked during interviews
 
 
@@ -13,3 +13,7 @@ questions I have been asked during interviews
 * How does a recurrent neural net work? 
 
 * Why is lightGBM only used with more than 10,000 data points? 
+
+### task
+
+* Please implement GA/GTM tracking/analytics for a given frontend as well as a data warehouse in the cloud which collects the data. you have one week
